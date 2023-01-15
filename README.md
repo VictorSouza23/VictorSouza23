@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Victor Souza</h1>
 <h3 align="center">Apaixonado por finanças, análise de dados e ciência de dados no mundo digital, cursando gestão financeira</h3>
 
-- 🔭 Atualmente estou trabalhando com tratamento e visualização de dados para gerar indicadores para tomada de decisão [Lucro Econômico (PETROBRAS).ipynb](https://colab.research.google.com/drive/1jBrpbvmM0lx8R8TU3vrG5oOdzO3WSWex?usp=sharing)
+- 🔭 Atualmente estou trabalhando com tratamento e visualização de dados para gerar indicadores para tomada de decisão [Lucro Econômico (PETROBRAS)](https://colab.research.google.com/drive/1jBrpbvmM0lx8R8TU3vrG5oOdzO3WSWex?usp=sharing)
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Gestão Financeira**
 
@@ -22,8 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsouza23&show_icons=true&locale=en&layout=compact" alt="victorsouza23" /></p>
 
 
 
