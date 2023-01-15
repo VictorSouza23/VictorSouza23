@@ -7,7 +7,7 @@
 
 - 👯 Estou compartilhando a visualização do projeto no Looker Studio [Petrobras(LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
 
-- 🤝 Também tenho esse projeto na parte financeira, de viabilidade de investimento em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
+- 🤝 Também tenho um projeto na área financeira, que mostra a viabilidade de um investimento programado em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
 
 - 💬 Me pergunte sobre **Python, SQL, Excel, Google Data Studio, Gestão Financeira**
 
