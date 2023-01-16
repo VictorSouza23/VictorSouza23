@@ -3,11 +3,11 @@
 
 - 🔭 Atualmente estou trabalhando com tratamento e visualização de dados para gerar indicadores para tomada de decisão [Lucro Econômico (PETROBRAS)](https://colab.research.google.com/drive/1jBrpbvmM0lx8R8TU3vrG5oOdzO3WSWex?usp=sharing)
 
-- 👯 Estou compartilhando a visualização do projeto no Looker Studio [Petrobras(LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
+- 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Gestão Financeira**
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Finanças**
+- 👯 Estou compartilhando a visualização do projeto no Looker Studio [Petrobras (LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
 
-- 🤝 Também tenho um projeto na área financeira, que mostra a viabilidade de um investimento programado em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
+- 🤝 Também tenho esse projeto na parte financeira, de viabilidade de investimento em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
 
 - 💬 Me pergunte sobre **Python, SQL, Excel, Google Data Studio, Gestão Financeira**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-souza-1225b4128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-souza-1225b4128/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor souza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
