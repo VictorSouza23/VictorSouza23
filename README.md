@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Victor Souza</h1>
-<h3 align="center">Apaixonado por finanças, análise de dados e ciência de dados no mundo digital, cursando gestão financeira</h3>
+<h3 align="center">Apaixonado por finanças, análise e ciência de dados no mundo digital</h3>
 
 - 🔭 Atualmente estou trabalhando com tratamento e visualização de dados para gerar indicadores para tomada de decisão [Lucro Econômico (PETROBRAS)](https://colab.research.google.com/drive/1jBrpbvmM0lx8R8TU3vrG5oOdzO3WSWex?usp=sharing)
 
