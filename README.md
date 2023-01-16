@@ -7,7 +7,7 @@
 
 - 👯 Estou compartilhando a visualização do projeto no Looker Studio [Petrobras (LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
 
-- 🤝 Também tenho esse projeto na parte financeira, de viabilidade de investimento em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
+- 🤝 Também tenho um projeto na área financeira, que mostra a viabilidade de um investimento, que foi programado em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
 
 - 💬 Me pergunte sobre **Python, SQL, Excel, Google Data Studio, Gestão Financeira**
 
@@ -22,7 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
 
 
 
