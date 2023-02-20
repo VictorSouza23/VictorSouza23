@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Google Data Studio e cursando Gestão Financeira**
 
-- 👯 Estou compartilhando a visualização do projeto no Google Data Studio [Petrobras (LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
+- 👯 Estou compartilhando a visualização do primeiro projeto no Google Data Studio [Petrobras (LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
 
 - 🤝 Também tenho um projeto na área financeira que mostra a viabilidade de um investimento, que foi programado em Python [Viabilidade de investimento](https://colab.research.google.com/drive/1g3OiBGpanJMuCAiS40HQ1TpslcAkktgQ?usp=sharing)
 
