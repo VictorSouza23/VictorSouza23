@@ -3,6 +3,8 @@
 
 - 🔭 Atualmente estou trabalhando com tratamento e visualização de dados para gerar indicadores para tomada de decisão [Lucro Econômico (PETROBRAS)](https://colab.research.google.com/drive/1jBrpbvmM0lx8R8TU3vrG5oOdzO3WSWex?usp=sharing)
 
+- 🔭 Também estou trabalhando com tratamento e visualização de dados para gerar uma previsão de vendas [Desafio Data Analitycs](https://colab.research.google.com/drive/1cAUhuTZWUAop6Ah_CRHxLuv_XUgwwSYW?usp=sharing)
+
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Google Data Studio e cursando Gestão Financeira**
 
 - 👯 Estou compartilhando a visualização do projeto no Google Data Studio [Petrobras (LookerStudio)](https://datastudio.google.com/reporting/f5b67c66-bd38-478d-880e-369534253259/page/R4k9C)
